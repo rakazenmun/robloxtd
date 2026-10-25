@@ -1,4 +1,4 @@
--- discord replace_me roblox replace_me
+-- discord iomonewz roblox williamoct23
 
 local RunService = game:GetService("RunService") -- heartbeat keeps movement and target updates on the server simulation clock
 
